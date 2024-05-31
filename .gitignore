@@ -15,4 +15,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 /ttto_env
+/tic_tac_to/Untitled Diagram.drawio
 # End of https://www.toptal.com/developers/gitignore/api/venv
