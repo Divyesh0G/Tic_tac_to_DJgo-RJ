@@ -1,0 +1,34 @@
+un ending tic tac to 
+create a live tic tac to web app
+2 players log in createa account 
+and play tic tac to with each other and can alos chat 
+send emogi 
+and add special feature where the losing player gets cheating option**
+cheatin as in when the player is losing he gets the undo 
+button.
+
+> user login & sin-up & OR guest user FAST id 
+    > can create a ID with real info 
+    > can press a buttone to auto fill details and sin up wiht random info (but set a pass word )
+    > can obviously login with the id password 
+    > can also use guist id that is again randon but no pass word
+
+> multy plyer online 
+> can play with bot
+
+> game features
+    > decide number of rounds to play to decide the4 winner(best of??) 
+    > one move per turn
+    > timer (if timer ends it hits random entry and no undo)
+    > reset button approval from both ends
+    > undo button approval from both ends
+    > first turn on random 
+    > chat
+    > emogi
+    > score board
+
+> special features
+    > can add a feature where the losing player gets the undo button once per round
+    > add cool game start animation of X and O roling in all 9 blocks randomly like a slot matchin
+    > opposit player always colour code in red as enemy and self as blue
+    
